@@ -20,5 +20,5 @@
             "Justin\\L\\Posts\\": "src"
         }
     },
-    "minimum-stability": "master"
+    "minimum-stability": "dev"
 }
