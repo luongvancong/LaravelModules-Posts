@@ -15,10 +15,10 @@
     "require-dev": {
         "phpunit/phpunit": "5.3.*"
     },
-    "minimum-stability " : "dev",
     "autoload": {
         "psr-4": {
             "Justin\\L\\Posts\\": "src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
