@@ -1,6 +1,6 @@
 <?php
 
-namespace Justin\L\Posts;
+namespace Justin\Posts;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProviderServiceProvider
 {

@@ -1,5 +1,5 @@
 {
-    "name": "justin/l/posts",
+    "name": "justin/posts",
     "description": "Post module",
     "license": "MIT",
     "keywords": ["post", "post laravel"],
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Justin\\L\\Posts\\": "src"
+            "Justin\\Posts\\": "src"
         }
     },
     "minimum-stability": "dev"
